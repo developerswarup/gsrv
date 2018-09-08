@@ -1,0 +1,19 @@
+# humanstxt.org
+
+/* TEAM */
+	Name: mc, stan
+	Contact: dmr.swarupda46 [at] gmail.com
+	Twitter: @officialsheraa
+	From: bermo, jharkhand, india
+
+/* THANKS */
+
+	AMP HTML Template: stan mc
+	Twitter: @officialsheraa
+	From: bermo, jharkhand, india
+
+/* SITE */
+	Last update: 2018/09/07
+	Language: English / hindi
+	Doctype: AMP HTML
+	IDE: Notepad, Editplus

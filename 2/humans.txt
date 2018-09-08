@@ -1,0 +1,19 @@
+# humanstxt.org
+
+/* TEAM */
+	Name: official, sheraa
+	Contact: dma.swarupda46 [at] gmail.com
+	Twitter: @officialsheraa
+	From: gamharia, jharkhand, india
+
+/* THANKS */
+
+	AMP HTML Template: sheraa official
+	Twitter: @officialsheraa
+	From: gamharia, jharkhand, india
+
+/* SITE */
+	Last update: 2018/09/07
+	Language: English / hindi
+	Doctype: AMP HTML
+	IDE: Notepad, Editplus
