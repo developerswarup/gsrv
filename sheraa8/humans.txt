@@ -1,19 +1,19 @@
 # humanstxt.org
 
 /* TEAM */
-	Name: First, Last Name
-	Contact: email [at] yourdomain.com
-	Twitter: @twitter_username
-	From: City, Province or State, Country
+	Name: raja, d
+	Contact: sheraaentertainment [at] gmail.com
+	Twitter: @officialsheraa
+	From: lukhnow, uttar pradesh, india
 
 /* THANKS */
 
-	AMP HTML Template: Brandon Himpfen
-	Twitter: @brandonhimpfen
-	From: Toronto, Ontario, Canada
+	AMP HTML Template: d raja
+	Twitter: @officialsheraa
+	From: luckhnow, uttar pradesh, india
 
 /* SITE */
-	Last update: 2018/09/07
-	Language: English / French
+	Last update: 2018/09/08
+	Language: English / hindi
 	Doctype: AMP HTML
 	IDE: Notepad, Editplus

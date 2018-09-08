@@ -1,19 +1,19 @@
 # humanstxt.org
 
 /* TEAM */
-	Name: First, Last Name
-	Contact: email [at] yourdomain.com
-	Twitter: @twitter_username
-	From: City, Province or State, Country
+	Name: kusum, reddy
+	Contact: swarupdas46 [at] gmail.com
+	Twitter: @semssheraa
+	From: bangalore, karanataka, india
 
 /* THANKS */
 
-	AMP HTML Template: Brandon Himpfen
-	Twitter: @brandonhimpfen
-	From: Toronto, Ontario, Canada
+	AMP HTML Template: reddy kusum
+	Twitter: @semssheraa
+	From: bangalore, karanataka, india
 
 /* SITE */
-	Last update: 2018/09/07
-	Language: English / French
+	Last update: 2018/09/08
+	Language: English / hindi
 	Doctype: AMP HTML
 	IDE: Notepad, Editplus
