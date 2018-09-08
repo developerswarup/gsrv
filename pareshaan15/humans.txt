@@ -1,0 +1,19 @@
+# humanstxt.org
+
+/* TEAM */
+	Name: naezy, the baa
+	Contact: swarupdas46 [at] gmail.com
+	Twitter: @officialsheraa
+	From: madhupur, jharkhand, india
+
+/* THANKS */
+
+	AMP HTML Template: the baa naezy
+	Twitter: @officialsheraa
+	From: madhupur, jharkhand, india
+
+/* SITE */
+	Last update: 2018/09/08
+	Language: English / hindi
+	Doctype: AMP HTML
+	IDE: Notepad, Editplus

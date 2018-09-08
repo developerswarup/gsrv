@@ -1,0 +1,19 @@
+# humanstxt.org
+
+/* TEAM */
+	Name: divine, emiway
+	Contact: sheraaentertainment [at] gmail.com
+	Twitter: @semssheraa
+	From: panipat, haryana, india
+
+/* THANKS */
+
+	AMP HTML Template: emiway divine
+	Twitter: @semssheraa
+	From: panipat, haryana, india
+
+/* SITE */
+	Last update: 2018/09/08
+	Language: English / hindi
+	Doctype: AMP HTML
+	IDE: Notepad, Editplus

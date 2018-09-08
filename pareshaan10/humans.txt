@@ -1,0 +1,19 @@
+# humanstxt.org
+
+/* TEAM */
+	Name: official, sheraa
+	Contact: swarupdas46 [at] gmail.com
+	Twitter: @officialsheraa
+	From: deoghar, jharkhand, india
+
+/* THANKS */
+
+	AMP HTML Template: sheraa official
+	Twitter: @officialsheraa
+	From: deoghar, jharkhand, india
+
+/* SITE */
+	Last update: 2018/09/08
+	Language: English / hindi
+	Doctype: AMP HTML
+	IDE: Notepad, Editplus

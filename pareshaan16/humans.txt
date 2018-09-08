@@ -1,0 +1,19 @@
+# humanstxt.org
+
+/* TEAM */
+	Name: diljit, dosanjh
+	Contact: dma.swarupdas46 [at] gmail.com
+	Twitter: @semssheraa
+	From: ghatsilla, jharkhand, india
+
+/* THANKS */
+
+	AMP HTML Template: dosanjh diljit
+	Twitter: @semssheraa
+	From: ghatsilla, jharkhand, india
+
+/* SITE */
+	Last update: 2018/09/08
+	Language: English / hindi
+	Doctype: AMP HTML
+	IDE: Notepad, Editplus
